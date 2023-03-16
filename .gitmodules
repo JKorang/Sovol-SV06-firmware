@@ -1,0 +1,3 @@
+[submodule "cfgs/external/KAMP"]
+	path = cfgs/external/KAMP
+	url = https://github.com/JKorang/Klipper-Adaptive-Meshing-Purging.git
